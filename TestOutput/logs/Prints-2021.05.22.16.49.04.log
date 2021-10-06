@@ -1,0 +1,9 @@
+2021-05-22 16:49:04.936 [main] DEBUG com.pratesting.base.BaseUI - Opening browser
+2021-05-22 16:49:07.753 [main] INFO  com.pratesting.base.BaseUI - Opened browser
+2021-05-22 16:49:07.754 [main] DEBUG com.pratesting.base.BaseUI - Opening URL
+2021-05-22 16:49:09.620 [main] INFO  com.pratesting.base.BaseUI - Opened URL
+2021-05-22 16:49:09.625 [main] DEBUG com.pratesting.page.Login - Enter User Email,Phone or Skype and click Next
+2021-05-22 16:49:12.744 [main] INFO  com.pratesting.page.Login - User Email is Entered
+2021-05-22 16:49:12.744 [main] DEBUG com.pratesting.page.Login - Enter User Password and click Sign-in
+2021-05-22 16:49:16.217 [main] INFO  com.pratesting.page.Login - User Password is Entered
+2021-05-22 16:49:16.217 [main] DEBUG com.pratesting.page.Login - Enter Verification Code

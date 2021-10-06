@@ -1,0 +1,98 @@
+2021-05-23 18:46:44.390 [main] DEBUG com.pratesting.base.BaseUI - Opening browser
+2021-05-23 18:46:47.772 [main] INFO  com.pratesting.base.BaseUI - Opened browser
+2021-05-23 18:46:47.773 [main] DEBUG com.pratesting.base.BaseUI - Opening URL
+2021-05-23 18:46:51.913 [main] INFO  com.pratesting.base.BaseUI - Opened URL
+2021-05-23 18:46:51.920 [main] DEBUG com.pratesting.page.Login - Enter User Email,Phone or Skype and click Next
+2021-05-23 18:47:12.303 [main] INFO  com.pratesting.page.Login - User Email is Entered
+2021-05-23 18:47:12.303 [main] DEBUG com.pratesting.page.Login - Enter User Password and click Sign-in
+2021-05-23 18:47:28.147 [main] INFO  com.pratesting.page.Login - User Password is Entered
+2021-05-23 18:47:28.148 [main] DEBUG com.pratesting.page.Login - Enter Verification Code
+2021-05-23 18:47:48.470 [main] INFO  com.pratesting.page.Login - Verification Code is Entered
+2021-05-23 18:47:48.471 [main] DEBUG com.pratesting.page.Login - Click donot stay Signed-in
+2021-05-23 18:47:52.805 [main] INFO  com.pratesting.page.Login - Donot stay Signed-in button is clicked
+2021-05-23 18:47:52.805 [main] DEBUG com.pratesting.page.Login - Click the Menu icon
+2021-05-23 18:48:00.715 [main] INFO  com.pratesting.page.Login - Menu icon clicked
+2021-05-23 18:48:00.715 [main] DEBUG com.pratesting.page.Login - Click the CFO Project
+2021-05-23 18:48:08.040 [main] INFO  com.pratesting.page.Login - CFO Project is clicked 
+2021-05-23 18:48:08.040 [main] DEBUG com.pratesting.page.Login - Click the Execute menu
+2021-05-23 18:48:08.652 [main] INFO  com.pratesting.page.Login - Execute menu clicked
+2021-05-23 18:48:08.653 [main] DEBUG com.pratesting.page.Login - Click the defects module
+2021-05-23 18:48:15.562 [main] INFO  com.pratesting.page.Login - Defects module is clicked
+2021-05-23 18:48:17.126 [main] DEBUG com.pratesting.page.Details - Click add button
+2021-05-23 18:48:17.467 [main] INFO  com.pratesting.page.Details - Add button is clicked
+2021-05-23 18:48:27.469 [main] DEBUG com.pratesting.page.Details - Switch to iframe
+2021-05-23 18:48:37.551 [main] INFO  com.pratesting.page.Details - Switched to iframe
+2021-05-23 18:48:37.551 [main] DEBUG com.pratesting.page.Details - Send text to description fiel
+2021-05-23 18:48:37.627 [main] INFO  com.pratesting.page.Details - Sent text to description
+2021-05-23 18:48:37.627 [main] DEBUG com.pratesting.page.Details - Send text to name description
+2021-05-23 18:48:37.720 [main] INFO  com.pratesting.page.Details - Sent text to name description
+2021-05-23 18:48:37.721 [main] DEBUG com.pratesting.page.Details - Select severity dropdown field
+2021-05-23 18:48:37.810 [main] INFO  com.pratesting.page.Details - Selected severity dropdown field
+2021-05-23 18:48:37.810 [main] DEBUG com.pratesting.page.Details - Select priority dropdown field
+2021-05-23 18:48:37.888 [main] INFO  com.pratesting.page.Details - Selected priority dropdown field
+2021-05-23 18:48:37.888 [main] DEBUG com.pratesting.page.Details - Select release dropdown field
+2021-05-23 18:48:38.361 [main] INFO  com.pratesting.page.Details - Selected release dropdown field
+2021-05-23 18:48:38.361 [main] DEBUG com.pratesting.page.Details - Select sprint dropdown field
+2021-05-23 18:48:38.789 [main] INFO  com.pratesting.page.Details - Selected sprint dropdown field
+2021-05-23 18:48:38.789 [main] DEBUG com.pratesting.page.Details - Select appraisal dropdown field
+2021-05-23 18:48:39.253 [main] INFO  com.pratesting.page.Details - Selected appraisal dropdown field
+2021-05-23 18:48:39.253 [main] DEBUG com.pratesting.page.Details - Select defect detect dropdown field
+2021-05-23 18:48:39.783 [main] INFO  com.pratesting.page.Details - Selected defect detect dropdown field
+2021-05-23 18:48:39.784 [main] DEBUG com.pratesting.page.Details - Select reporting Source dropdown field
+2021-05-23 18:48:39.853 [main] INFO  com.pratesting.page.Details - Selected reporting Source dropdown field
+2021-05-23 18:48:39.853 [main] DEBUG com.pratesting.page.Details - Select defect Category dropdown field
+2021-05-23 18:48:39.893 [main] INFO  com.pratesting.page.Details - Selected defect Category dropdown field
+2021-05-23 18:48:39.894 [main] DEBUG com.pratesting.page.Details - Select date icon
+2021-05-23 18:48:40.328 [main] INFO  com.pratesting.page.Details - Selected date icon
+2021-05-23 18:48:40.328 [main] DEBUG com.pratesting.page.Details - Select date
+2021-05-23 18:48:41.226 [main] INFO  com.pratesting.page.Details - Date is selected
+2021-05-23 18:48:41.227 [main] DEBUG com.pratesting.page.Details - Select defect cause dropdown field
+2021-05-23 18:48:41.305 [main] INFO  com.pratesting.page.Details - Selected defect cause dropdown field
+2021-05-23 18:48:41.305 [main] DEBUG com.pratesting.page.Details - Select type of defects dropdown field
+2021-05-23 18:48:41.382 [main] INFO  com.pratesting.page.Details - Selected type of defects dropdown field
+2021-05-23 18:48:41.382 [main] DEBUG com.pratesting.page.Details - Select save
+2021-05-23 18:48:42.143 [main] INFO  com.pratesting.page.Details - Selected save
+2021-05-23 18:48:42.144 [main] DEBUG com.pratesting.page.Details - Select return
+2021-05-23 18:48:45.572 [main] INFO  com.pratesting.page.Details - Return is selected
+2021-05-23 18:48:45.573 [main] DEBUG com.pratesting.page.Details - Select sort button
+2021-05-23 18:48:47.402 [main] INFO  com.pratesting.page.Details - Sort button is selected
+2021-05-23 18:48:47.453 [main] DEBUG com.pratesting.page.Details - Enter priority
+2021-05-23 18:48:47.515 [main] INFO  com.pratesting.page.Details - Priority is entered
+2021-05-23 18:48:47.617 [main] DEBUG com.pratesting.page.Details - Enter Ascending
+2021-05-23 18:48:47.679 [main] INFO  com.pratesting.page.Details - Ascending is entered
+2021-05-23 18:48:47.680 [main] DEBUG com.pratesting.page.Details - Select go button and select defects already created
+2021-05-23 18:48:48.443 [main] INFO  com.pratesting.page.Details - Go button is selected and defects is selected
+2021-05-23 18:48:48.443 [main] DEBUG com.pratesting.page.Details - Switch to iframe
+2021-05-23 18:48:58.509 [main] INFO  com.pratesting.page.Details - Switched to iframe
+2021-05-23 18:48:58.510 [main] DEBUG com.pratesting.page.Details - Send text to description fiel
+2021-05-23 18:48:58.573 [main] INFO  com.pratesting.page.Details - Sent text to description
+2021-05-23 18:48:58.573 [main] DEBUG com.pratesting.page.Details - Send text to name description
+2021-05-23 18:48:58.650 [main] INFO  com.pratesting.page.Details - Sent text to name description
+2021-05-23 18:48:58.651 [main] DEBUG com.pratesting.page.Details - Select severity dropdown field
+2021-05-23 18:48:58.718 [main] INFO  com.pratesting.page.Details - Selected severity dropdown field
+2021-05-23 18:48:58.718 [main] DEBUG com.pratesting.page.Details - Select priority dropdown field
+2021-05-23 18:48:58.797 [main] INFO  com.pratesting.page.Details - Selected priority dropdown field
+2021-05-23 18:48:58.798 [main] DEBUG com.pratesting.page.Details - Select release dropdown field
+2021-05-23 18:48:59.245 [main] INFO  com.pratesting.page.Details - Selected release dropdown field
+2021-05-23 18:48:59.245 [main] DEBUG com.pratesting.page.Details - Select sprint dropdown field
+2021-05-23 18:48:59.693 [main] INFO  com.pratesting.page.Details - Selected sprint dropdown field
+2021-05-23 18:48:59.693 [main] DEBUG com.pratesting.page.Details - Select appraisal dropdown field
+2021-05-23 18:49:00.126 [main] INFO  com.pratesting.page.Details - Selected appraisal dropdown field
+2021-05-23 18:49:00.126 [main] DEBUG com.pratesting.page.Details - Select defect detect dropdown field
+2021-05-23 18:49:00.563 [main] INFO  com.pratesting.page.Details - Selected defect detect dropdown field
+2021-05-23 18:49:00.564 [main] DEBUG com.pratesting.page.Details - Select reporting Source dropdown field
+2021-05-23 18:49:00.627 [main] INFO  com.pratesting.page.Details - Selected reporting Source dropdown field
+2021-05-23 18:49:00.627 [main] DEBUG com.pratesting.page.Details - Select defect Category dropdown field
+2021-05-23 18:49:00.664 [main] INFO  com.pratesting.page.Details - Selected defect Category dropdown field
+2021-05-23 18:49:00.664 [main] DEBUG com.pratesting.page.Details - Select save
+2021-05-23 18:49:01.326 [main] INFO  com.pratesting.page.Details - Selected save
+2021-05-23 18:49:01.327 [main] DEBUG com.pratesting.page.Details - Select return
+2021-05-23 18:49:04.636 [main] INFO  com.pratesting.page.Details - Return is selected
+2021-05-23 18:49:14.564 [main] DEBUG com.pratesting.page.BottomMenuFunctions - Click last
+2021-05-23 18:49:16.294 [main] INFO  com.pratesting.page.BottomMenuFunctions - Last is clicked
+2021-05-23 18:49:16.294 [main] DEBUG com.pratesting.page.BottomMenuFunctions - Click previous
+2021-05-23 18:49:16.594 [main] INFO  com.pratesting.page.BottomMenuFunctions - Previous is clicked
+2021-05-23 18:49:16.595 [main] DEBUG com.pratesting.page.BottomMenuFunctions - Click first
+2021-05-23 18:49:16.929 [main] INFO  com.pratesting.page.BottomMenuFunctions - First is clicked
+2021-05-23 18:49:16.930 [main] DEBUG com.pratesting.page.BottomMenuFunctions - Click refresh
+2021-05-23 18:49:17.253 [main] INFO  com.pratesting.page.BottomMenuFunctions - Refresh is clicked

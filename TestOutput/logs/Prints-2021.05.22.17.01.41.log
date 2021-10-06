@@ -1,0 +1,5 @@
+2021-05-22 17:01:42.181 [main] DEBUG com.pratesting.base.BaseUI - Opening browser
+2021-05-22 17:01:44.829 [main] INFO  com.pratesting.base.BaseUI - Opened browser
+2021-05-22 17:01:44.831 [main] DEBUG com.pratesting.base.BaseUI - Opening URL
+2021-05-22 17:01:48.029 [main] INFO  com.pratesting.base.BaseUI - Opened URL
+2021-05-22 17:01:48.052 [main] DEBUG com.pratesting.page.Login - Enter User Email,Phone or Skype and click Next

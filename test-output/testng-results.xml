@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-24T16:34:30 IST" name="Default suite" finished-at="2021-05-24T16:40:23 IST" duration-ms="352660">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-05-24T16:34:30 IST" name="Default test" finished-at="2021-05-24T16:40:23 IST" duration-ms="352660">
+      <class name="myTestRunner.RunTestNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" started-at="2021-05-24T16:34:33 IST" name="setUpClass" finished-at="2021-05-24T16:34:34 IST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" started-at="2021-05-24T16:34:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-24T16:36:22 IST" duration-ms="108199" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login Scenario"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Application feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" started-at="2021-05-24T16:36:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-24T16:37:00 IST" duration-ms="37787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create defects form"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Application feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" started-at="2021-05-24T16:37:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-24T16:37:59 IST" duration-ms="59495" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Edit defects"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Application feature"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.support.ui.UnexpectedTagNameException">
+            <message>
+              <![CDATA[Element should have been "select" but was "span"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'YUVI', ip: '192.168.1.7', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '15.0.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.support.ui.UnexpectedTagNameException: Element should have been "select" but was "span"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'YUVI', ip: '192.168.1.7', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '15.0.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.<init>(Select.java:48)
+at com.pratesting.base.BaseUI.dropDown(BaseUI.java:180)
+at com.pratesting.page.DefectsEdit.severityChg(DefectsEdit.java:88)
+at stepDefinitions.DefectsEditTest.SeverityEdit(DefectsEditTest.java:26)
+at ✽.Select severity and change(file:///C:/Users/Sony/archana_MiniProject/910628_CFOProjectDefectModule/910628_CFOProjectDefectModule/com.pratesting/src/test/java/feature/Login.feature:31)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.support.ui.UnexpectedTagNameException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" started-at="2021-05-24T16:37:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-24T16:40:17 IST" duration-ms="137804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify TopMenu Function"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Application feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" started-at="2021-05-24T16:40:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-24T16:40:23 IST" duration-ms="5279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify BottomMenu Function"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Application feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:myTestRunner.RunTestNGTest@5f9b2141]" started-at="2021-05-24T16:40:23 IST" name="tearDownClass" finished-at="2021-05-24T16:40:23 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- myTestRunner.RunTestNGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

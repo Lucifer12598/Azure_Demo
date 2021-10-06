@@ -1,0 +1,15 @@
+2021-05-23 19:42:29.111 [main] DEBUG com.pratesting.base.BaseUI - Opening browser
+2021-05-23 19:42:33.522 [main] INFO  com.pratesting.base.BaseUI - Opened browser
+2021-05-23 19:42:33.522 [main] DEBUG com.pratesting.base.BaseUI - Opening URL
+2021-05-23 19:42:36.386 [main] INFO  com.pratesting.base.BaseUI - Opened URL
+2021-05-23 19:42:36.398 [main] DEBUG com.pratesting.page.Login - Enter User Email,Phone or Skype and click Next
+2021-05-23 19:42:56.833 [main] INFO  com.pratesting.page.Login - User Email is Entered
+2021-05-23 19:42:56.833 [main] DEBUG com.pratesting.page.Login - Enter User Password and click Sign-in
+2021-05-23 19:43:12.691 [main] INFO  com.pratesting.page.Login - User Password is Entered
+2021-05-23 19:43:12.692 [main] DEBUG com.pratesting.page.Login - Enter Verification Code
+2021-05-23 19:43:33.001 [main] INFO  com.pratesting.page.Login - Verification Code is Entered
+2021-05-23 19:43:33.002 [main] DEBUG com.pratesting.page.Login - Click donot stay Signed-in
+2021-05-23 19:43:37.961 [main] INFO  com.pratesting.page.Login - Donot stay Signed-in button is clicked
+2021-05-23 19:43:37.962 [main] DEBUG com.pratesting.page.Login - Click the Menu icon
+2021-05-23 19:43:45.996 [main] INFO  com.pratesting.page.Login - Menu icon clicked
+2021-05-23 19:43:45.996 [main] DEBUG com.pratesting.page.Login - Click the CFO Project

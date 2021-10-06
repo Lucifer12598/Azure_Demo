@@ -1,0 +1,4 @@
+2021-05-22 16:44:47.296 [main] DEBUG com.pratesting.base.BaseUI - Opening browser
+2021-05-22 16:44:50.025 [main] INFO  com.pratesting.base.BaseUI - Opened browser
+2021-05-22 16:44:50.025 [main] DEBUG com.pratesting.base.BaseUI - Opening URL
+2021-05-22 16:44:53.641 [main] INFO  com.pratesting.base.BaseUI - Opened URL
